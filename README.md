@@ -24,5 +24,6 @@ ex_1.ino - 5 clicks to Turn On. 3 clicks to Turn Off.
 
 ex_2.ino - Each button controls each LED blinks frequency. Button 1: blink 1s, Button 2: blink 2s
 																	                  Button 3: blink 3s, Button 4: blink 4s
+    _en (english version) and _pt (portuguese version)	
 																										
 
