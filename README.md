@@ -16,13 +16,13 @@ First examples.
 
 -> 1 LED with 1 BUTTON (jpg image of schema)
 
-0 - Switch State (One click: Turn On, Another Click: Turn Off).
+ex_0.ino - Switch State (One click: Turn On, Another Click: Turn Off).
 		
-1 - 5 clicks to Turn On. 3 clicks to Turn Off.
+ex_1.ino - 5 clicks to Turn On. 3 clicks to Turn Off.
 
 -> 4 LEDs with 4 BUTTONS (jpg image of schema)
 
-2 - Each button controls each LED blinks frequency. Button 1: blink 1s, Button 2: blink 2s
+ex_2.ino - Each button controls each LED blinks frequency. Button 1: blink 1s, Button 2: blink 2s
 																	                  Button 3: blink 3s, Button 4: blink 4s
 																										
 
